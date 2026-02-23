@@ -3199,6 +3199,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28928042819300,
+          "name": "tide-extra-compatibility-2.1.1",
+          "favorite": false,
+          "version": {
+            "id": -28928049762400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b05a37c466932efea13b284edbea78d838c56776",
+              "size": 321344,
+              "path": "mods/tide-extra-compatibility-2.1.1.jar",
+              "url": "mods/tide-extra-compatibility-2.1.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -28928049832500,
+          "name": "tide-forge-1.20.1-2.0.3",
+          "favorite": false,
+          "version": {
+            "id": -28928062884300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "70db6edc3b2e58ce51d69a3542892935b2ba28f1",
+              "size": 2006809,
+              "path": "mods/tide-forge-1.20.1-2.0.3.jar",
+              "url": "mods/tide-forge-1.20.1-2.0.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
