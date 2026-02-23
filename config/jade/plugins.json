@@ -61,6 +61,9 @@
     "energy": true,
     "tooltip_renderer": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
