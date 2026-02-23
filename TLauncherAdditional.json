@@ -3245,6 +3245,282 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053602430100,
+          "name": "chefsdelight-1.0.4-forge-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -30053611235800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4bb324dcad6b13df4ecbfa4d9c46664a5ee8da6f",
+              "size": 98303,
+              "path": "mods/chefsdelight-1.0.4-forge-1.20.1.jar",
+              "url": "mods/chefsdelight-1.0.4-forge-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053611352800,
+          "name": "Delightful-1.20.1-3.7.8",
+          "favorite": false,
+          "version": {
+            "id": -30053614534900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a38eddfdc078f481dd9179e070cf5c470da4dfbd",
+              "size": 1609113,
+              "path": "mods/Delightful-1.20.1-3.7.8.jar",
+              "url": "mods/Delightful-1.20.1-3.7.8.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053614625800,
+          "name": "delightfulburgers-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -30053621109200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6cb9c2a1486e63b9a7225c8ea02654a0d9b84ee4",
+              "size": 15907,
+              "path": "mods/delightfulburgers-1.20.1.jar",
+              "url": "mods/delightfulburgers-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053621224000,
+          "name": "delightfulcreators-1.2",
+          "favorite": false,
+          "version": {
+            "id": -30053630000600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "bb3645482adcca88276d69756c38fc725a3a5cdb",
+              "size": 357197,
+              "path": "mods/delightfulcreators-1.2.jar",
+              "url": "mods/delightfulcreators-1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053630106800,
+          "name": "delightfulsandwich-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -30053637805400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ebd56e042a32bf9adaa696b2f548b0171d8672ff",
+              "size": 19574,
+              "path": "mods/delightfulsandwich-1.20.1.jar",
+              "url": "mods/delightfulsandwich-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053637915300,
+          "name": "ends_delight-2.5.1+forge.1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -30053643793700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "535c442625be4bd26ee637cdf7055c30b79a0b65",
+              "size": 279150,
+              "path": "mods/ends_delight-2.5.1+forge.1.20.1.jar",
+              "url": "mods/ends_delight-2.5.1+forge.1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053644085400,
+          "name": "lendersdelight-1.20.1-1.0.10",
+          "favorite": false,
+          "version": {
+            "id": -30053650949900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8bf77bc264bf6978890bfbe40e749eda06539ce1",
+              "size": 185519,
+              "path": "mods/lendersdelight-1.20.1-1.0.10.jar",
+              "url": "mods/lendersdelight-1.20.1-1.0.10.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053651036400,
+          "name": "miners_delight-1.20.1-1.2.3",
+          "favorite": false,
+          "version": {
+            "id": -30053657229700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "817ab785307e34895900fa23ce9d5dc4ee8eadf5",
+              "size": 474112,
+              "path": "mods/miners_delight-1.20.1-1.2.3.jar",
+              "url": "mods/miners_delight-1.20.1-1.2.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30053657390700,
+          "name": "oceansdelight-1.0.2-1.20",
+          "favorite": false,
+          "version": {
+            "id": -30053662551800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "32af985453bde77bfa56d59cdfb11cab5662c8e1",
+              "size": 90353,
+              "path": "mods/oceansdelight-1.0.2-1.20.jar",
+              "url": "mods/oceansdelight-1.0.2-1.20.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30196267472700,
+          "name": "forge-dungeonsdelight-1.20.1-1.2.10",
+          "favorite": false,
+          "version": {
+            "id": -30196276087200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8e33417981dfe50155410c818622b03444705350",
+              "size": 1844636,
+              "path": "mods/forge-dungeonsdelight-1.20.1-1.2.10.jar",
+              "url": "mods/forge-dungeonsdelight-1.20.1-1.2.10.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30196276184500,
+          "name": "nethersdelight-1.20.1-4.0",
+          "favorite": false,
+          "version": {
+            "id": -30196280424200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c6da9c681bf2ec1d7b3e96db739c2b1113f6b838",
+              "size": 366047,
+              "path": "mods/nethersdelight-1.20.1-4.0.jar",
+              "url": "mods/nethersdelight-1.20.1-4.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -30275269415900,
+          "name": "forge-runiclib-1.20.1-4.3.8",
+          "favorite": false,
+          "version": {
+            "id": -30275274454700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "267895a8c528b7a670e4a5a75e18fd122981b82c",
+              "size": 134878,
+              "path": "mods/forge-runiclib-1.20.1-4.3.8.jar",
+              "url": "mods/forge-runiclib-1.20.1-4.3.8.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
