@@ -3613,6 +3613,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -32064989286300,
+          "name": "infinitetrading-1.20.1-4.6",
+          "favorite": false,
+          "version": {
+            "id": -32064989570800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8a8bf9b8eecf4d23f5e91383099032a684e068bf",
+              "size": 27822,
+              "path": "mods/infinitetrading-1.20.1-4.6.jar",
+              "url": "mods/infinitetrading-1.20.1-4.6.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -32126119725300,
+          "name": "collective-1.20.1-8.13",
+          "favorite": false,
+          "version": {
+            "id": -32126125323900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
+              "size": 665169,
+              "path": "mods/collective-1.20.1-8.13.jar",
+              "url": "mods/collective-1.20.1-8.13.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
