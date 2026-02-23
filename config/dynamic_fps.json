@@ -1,1 +1,7 @@
-{}
+{
+  "states": {
+    "unplugged": {
+      "enable_vsync": false
+    }
+  }
+}
