@@ -3544,6 +3544,75 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -31760661540500,
+          "name": "croaks-1.9.6-forge-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -31760690008100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "272d241fcfff18859df6ed26eab8028029e90a59",
+              "size": 6457104,
+              "path": "mods/croaks-1.9.6-forge-1.20.1.jar",
+              "url": "mods/croaks-1.9.6-forge-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -31760690219400,
+          "name": "GuardRibbits-1.20.1-Forge-1.0.4",
+          "favorite": false,
+          "version": {
+            "id": -31760694068200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e96f90030cae84934ae941163a4db36280aa976e",
+              "size": 44217,
+              "path": "mods/GuardRibbits-1.20.1-Forge-1.0.4.jar",
+              "url": "mods/GuardRibbits-1.20.1-Forge-1.0.4.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -31760694179300,
+          "name": "Ribbits-1.20.1-Forge-3.0.5",
+          "favorite": false,
+          "version": {
+            "id": -31760707487200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5cc73d3399248300a188164406cd801cc4ae00b3",
+              "size": 2223589,
+              "path": "mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+              "url": "mods/Ribbits-1.20.1-Forge-3.0.5.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
