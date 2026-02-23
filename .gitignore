@@ -1,0 +1,10 @@
+saves/
+logs/
+crash-reports/
+xaero/
+screenshots/
+schematics/
+usercache.json
+usernamecache.json
+modernfix/
+fabricloader.log
