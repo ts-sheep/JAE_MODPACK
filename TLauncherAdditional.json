@@ -2900,6 +2900,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -18034476172000,
+          "name": "supplementaries-1.20-3.1.42-forge",
+          "favorite": false,
+          "version": {
+            "id": -18034488960600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c9e2f6c813eef73843d869ff5611f155af7467fb",
+              "size": 13661432,
+              "path": "mods/supplementaries-1.20-3.1.42-forge.jar",
+              "url": "mods/supplementaries-1.20-3.1.42-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -18034489022600,
+          "name": "suppsquared-1.20-1.1.29",
+          "favorite": false,
+          "version": {
+            "id": -18034490104200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4072bbc6dd84f76006fb71a0c22103e849a03e77",
+              "size": 922956,
+              "path": "mods/suppsquared-1.20-1.1.29.jar",
+              "url": "mods/suppsquared-1.20-1.1.29.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
