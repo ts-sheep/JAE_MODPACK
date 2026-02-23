@@ -3521,6 +3521,29 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -31265414042600,
+          "name": "spiceoflife_classic-forge-2.01",
+          "favorite": false,
+          "version": {
+            "id": -31265418031600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "176b77fcfab654ff3eed08a40012efd61a9c2703",
+              "size": 69640,
+              "path": "mods/spiceoflife_classic-forge-2.01.jar",
+              "url": "mods/spiceoflife_classic-forge-2.01.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
