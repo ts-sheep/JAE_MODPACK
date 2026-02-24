@@ -3659,6 +3659,144 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -99934956506000,
+          "name": "create-automotives-1.20.1-V1",
+          "favorite": false,
+          "version": {
+            "id": -99934976424100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ad411b0ee70c110727ae8acee737a6c6380d13b4",
+              "size": 2968173,
+              "path": "mods/create-automotives-1.20.1-V1.jar",
+              "url": "mods/create-automotives-1.20.1-V1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -100425048541300,
+          "name": "ImmersiveUI-FORGE-0.3.0",
+          "favorite": false,
+          "version": {
+            "id": -100425052695700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b2b36a49f1b8daf8d8fc0521f532fb706649c09c",
+              "size": 401514,
+              "path": "mods/ImmersiveUI-FORGE-0.3.0.jar",
+              "url": "mods/ImmersiveUI-FORGE-0.3.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -100425052758300,
+          "name": "immersive_aircraft-1.4.0+1.20.1-forge",
+          "favorite": false,
+          "version": {
+            "id": -100425063107200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "64e6c792c5208005ee6b099e8fb7d2738873737d",
+              "size": 2428368,
+              "path": "mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+              "url": "mods/immersive_aircraft-1.4.0+1.20.1-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -100425063170800,
+          "name": "immersive_melodies-0.6.0+1.20.1-forge",
+          "favorite": false,
+          "version": {
+            "id": -100425080608200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "688f2b905c99a2d2c86f016eb09712d978f99102",
+              "size": 5517578,
+              "path": "mods/immersive_melodies-0.6.0+1.20.1-forge.jar",
+              "url": "mods/immersive_melodies-0.6.0+1.20.1-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -100425080670000,
+          "name": "immersive_paintings-0.6.10+1.20.1-forge",
+          "favorite": false,
+          "version": {
+            "id": -100425097298200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "34ad3c41aed520a8ce1597978db9f3e2ab5ecb95",
+              "size": 4855034,
+              "path": "mods/immersive_paintings-0.6.10+1.20.1-forge.jar",
+              "url": "mods/immersive_paintings-0.6.10+1.20.1-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -100533955167700,
+          "name": "OctoLib-FORGE-0.5.0.1+1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -100533960940900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "9eab28baff36942e1c924489e34753df10f40208",
+              "size": 424035,
+              "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+              "url": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
