@@ -3912,6 +3912,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -105212744646600,
+          "name": "fossil-forge-1.20.1-9.3.2.0",
+          "favorite": false,
+          "version": {
+            "id": -105212783219400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "dcf1c9b0b9f157815cebf9cad1569a8d4d60a696",
+              "size": 29526351,
+              "path": "mods/fossil-forge-1.20.1-9.3.2.0.jar",
+              "url": "mods/fossil-forge-1.20.1-9.3.2.0.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -105212783294700,
+          "name": "morehitboxes-forge-1.20.1-1.9.2",
+          "favorite": false,
+          "version": {
+            "id": -105212787954100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "4faa402e86c444cf205deac816a501f06a9ecefb",
+              "size": 294405,
+              "path": "mods/morehitboxes-forge-1.20.1-1.9.2.jar",
+              "url": "mods/morehitboxes-forge-1.20.1-1.9.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
