@@ -4004,6 +4004,167 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646047071800,
+          "name": "aether-1.20.1-1.5.2-neoforge",
+          "favorite": false,
+          "version": {
+            "id": -111646092777000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "e2fdd161f35ca1b6db774906e88e266d7f12eab6",
+              "size": 39746073,
+              "path": "mods/aether-1.20.1-1.5.2-neoforge.jar",
+              "url": "mods/aether-1.20.1-1.5.2-neoforge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646092896400,
+          "name": "aethersdelight-0.1.3.1-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -111646093510100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "19641db497b8505aa97604c38bc5177becf14a0b",
+              "size": 461877,
+              "path": "mods/aethersdelight-0.1.3.1-1.20.1.jar",
+              "url": "mods/aethersdelight-0.1.3.1-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646093569000,
+          "name": "AetherVillages-1.20.1-1.0.7-forge",
+          "favorite": false,
+          "version": {
+            "id": -111646096119200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "f09c56667fe945c2d84474ee4e905815153cf52b",
+              "size": 646120,
+              "path": "mods/AetherVillages-1.20.1-1.0.7-forge.jar",
+              "url": "mods/AetherVillages-1.20.1-1.0.7-forge.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646096511900,
+          "name": "deeperdarker-forge-1.20.1-1.3.3",
+          "favorite": false,
+          "version": {
+            "id": -111646113783500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+              "size": 17844266,
+              "path": "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
+              "url": "mods/deeperdarker-forge-1.20.1-1.3.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646114410500,
+          "name": "lost_aether_content-1.20.1-1.2.3",
+          "favorite": false,
+          "version": {
+            "id": -111646142689900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8138ec72d019ccf4e706d8466d2b1c78164ec937",
+              "size": 20264145,
+              "path": "mods/lost_aether_content-1.20.1-1.2.3.jar",
+              "url": "mods/lost_aether_content-1.20.1-1.2.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646143048700,
+          "name": "Ping-Wheel-1.12.1-forge-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -111646143709300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "54a5964c89ed073a2856d22799ceb174febd9329",
+              "size": 157314,
+              "path": "mods/Ping-Wheel-1.12.1-forge-1.20.1.jar",
+              "url": "mods/Ping-Wheel-1.12.1-forge-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -111646144330300,
+          "name": "structure_gel-1.20.1-2.16.2",
+          "favorite": false,
+          "version": {
+            "id": -111646145922800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
+              "size": 966028,
+              "path": "mods/structure_gel-1.20.1-2.16.2.jar",
+              "url": "mods/structure_gel-1.20.1-2.16.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
