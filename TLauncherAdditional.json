@@ -3958,6 +3958,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -105876286726800,
+          "name": "aquamirae-forge-1.20.1-6.1.2",
+          "favorite": false,
+          "version": {
+            "id": -105876304168700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "3c4287166225fc010d29f94a546f908f0fdebef8",
+              "size": 17954713,
+              "path": "mods/aquamirae-forge-1.20.1-6.1.2.jar",
+              "url": "mods/aquamirae-forge-1.20.1-6.1.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -105876304286800,
+          "name": "obscure_api-18",
+          "favorite": false,
+          "version": {
+            "id": -105876311315000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d395153341a9a732fc80463c475b202d78675e28",
+              "size": 1128392,
+              "path": "mods/obscure_api-18.jar",
+              "url": "mods/obscure_api-18.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
