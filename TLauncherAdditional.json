@@ -3866,6 +3866,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -104781891752700,
+          "name": "Controlling-forge-1.20.1-12.0.2",
+          "favorite": false,
+          "version": {
+            "id": -104781895963900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6195a3d1464f8fb641d7e165163aea1a857ce08e",
+              "size": 115280,
+              "path": "mods/Controlling-forge-1.20.1-12.0.2.jar",
+              "url": "mods/Controlling-forge-1.20.1-12.0.2.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -104781896074800,
+          "name": "Searchables-forge-1.20.1-1.0.3",
+          "favorite": false,
+          "version": {
+            "id": -104781899219900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "5b976f6e76ec74cdef21865e31f56bcb11558db7",
+              "size": 77732,
+              "path": "mods/Searchables-forge-1.20.1-1.0.3.jar",
+              "url": "mods/Searchables-forge-1.20.1-1.0.3.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
