@@ -10,8 +10,8 @@
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				panda = true
 				chicken = true
+				panda = true
 				axolotl = true
 				bee = true
 				arrow = true
@@ -53,8 +53,8 @@
 				iron_tetra = true
 				deep_grouper = true
 				mackerel = true
-				anglerfish = true
 				shadow_snapper = true
+				anglerfish = true
 				snook = true
 				dripstone_darter = true
 				yellow_perch = true
