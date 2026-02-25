@@ -10,8 +10,8 @@
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				chicken = true
 				panda = true
+				chicken = true
 				axolotl = true
 				bee = true
 				arrow = true
@@ -122,8 +122,8 @@
 			[light_sources.settings.entities.alexsmobs]
 				crocodile = true
 				spectre = true
-				gelada_monkey = true
 				seal = true
+				gelada_monkey = true
 				blue_jay = true
 				cachalot_echo = true
 				tasmanian_devil = true
