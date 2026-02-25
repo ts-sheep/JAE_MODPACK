@@ -4464,6 +4464,52 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -167327323363400,
+          "name": "mekanism_tfmg_compat-1.1-1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -167327352477800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "9e4da350b7fa97de224de20ef9e6da66cd5a0a21",
+              "size": 99854,
+              "path": "mods/mekanism_tfmg_compat-1.1-1.20.1.jar",
+              "url": "mods/mekanism_tfmg_compat-1.1-1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -167327352867300,
+          "name": "tfmg-1.0.2f",
+          "favorite": false,
+          "version": {
+            "id": -167327387664800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "48e6b058f0d515cbb0e673d823e6e4042f9b1d37",
+              "size": 5343749,
+              "path": "mods/tfmg-1.0.2f.jar",
+              "url": "mods/tfmg-1.0.2f.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
