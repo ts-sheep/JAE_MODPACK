@@ -10,44 +10,57 @@
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				chicken = true
 				panda = true
+				chicken = true
 				axolotl = true
 				bee = true
 				arrow = true
+				cow = true
+				fox = true
+				pig = true
 				pillager = true
 				skeleton = true
 				bat = true
 				zombie = true
 				drowned = true
-				experience_orb = true
 				sheep = true
+				experience_orb = true
 				player = true
 				item = true
 				villager = true
 				wolf = true
+				salmon = true
 				tnt_minecart = true
 				zombie_villager = true
 				item_frame = true
 				glow_squid = true
 				witch = true
+				cod = true
 				squid = true
 				spider = true
 				creeper = true
+				enderman = true
 
 			[light_sources.settings.entities.tide]
 				black_crappie = true
+				tuna = true
 				glowfish = true
 				cave_crawler = true
 				bluegill = true
 				largemouth_bass = true
+				flounder = true
 				gilded_minnow = true
 				iron_tetra = true
+				red_snapper = true
 				deep_grouper = true
+				mackerel = true
 				cave_eel = true
 				anglerfish = true
 				carp = true
 				brook_trout = true
+				anchovy = true
+				great_white_shark = true
+				snook = true
 				crystal_shrimp = true
 				dripstone_darter = true
 				yellow_perch = true
@@ -65,6 +78,7 @@
 				sulfurhead = true
 				trauma_unit = true
 				praetor = true
+				dissident = true
 				cog_minion = true
 
 			[light_sources.settings.entities.mowziesmobs]
@@ -77,22 +91,29 @@
 				dark_oak_enderman = true
 
 			[light_sources.settings.entities.alexsmobs]
+				seal = true
+				blue_jay = true
+				cachalot_echo = true
+				tasmanian_devil = true
+				centipede_tail = true
+				underminer = true
+				skunk = true
 				cockroach = true
 				snow_leopard = true
 				grizzly_bear = true
-				blue_jay = true
 				moose = true
 				potoo = true
-				rocky_roller = true
 				centipede_body = true
+				rocky_roller = true
 				centipede_head = true
+				seagull = true
 				raccoon = true
-				fly = true
 				flutter = true
-				centipede_tail = true
+				fly = true
+				cachalot_whale = true
+				orca = true
 				crow = true
-				underminer = true
-				skunk = true
+				bison = true
 				sugar_glider = true
 
 			[light_sources.settings.entities.guardvillagers]
@@ -119,4 +140,7 @@
 				forgotten = true
 				toretoise = true
 				stoneling = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
 
