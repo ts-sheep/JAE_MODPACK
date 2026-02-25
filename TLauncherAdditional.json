@@ -4510,6 +4510,29 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -167775877515700,
+          "name": "RyoamicLights-forge-0.2.3+mc1.20.1",
+          "favorite": false,
+          "version": {
+            "id": -167775878472600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "42fa590f0318ae0b0bcc327b49255b3e131f0182",
+              "size": 160065,
+              "path": "mods/RyoamicLights-forge-0.2.3+mc1.20.1.jar",
+              "url": "mods/RyoamicLights-forge-0.2.3+mc1.20.1.jar"
+            },
+            "available": false,
+            "remove": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],

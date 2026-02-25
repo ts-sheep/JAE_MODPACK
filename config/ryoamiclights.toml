@@ -1,0 +1,122 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				panda = true
+				axolotl = true
+				bee = true
+				arrow = true
+				pillager = true
+				skeleton = true
+				bat = true
+				zombie = true
+				drowned = true
+				experience_orb = true
+				sheep = true
+				player = true
+				item = true
+				villager = true
+				wolf = true
+				tnt_minecart = true
+				zombie_villager = true
+				item_frame = true
+				glow_squid = true
+				witch = true
+				squid = true
+				spider = true
+				creeper = true
+
+			[light_sources.settings.entities.tide]
+				black_crappie = true
+				glowfish = true
+				cave_crawler = true
+				bluegill = true
+				largemouth_bass = true
+				gilded_minnow = true
+				iron_tetra = true
+				deep_grouper = true
+				cave_eel = true
+				anglerfish = true
+				carp = true
+				brook_trout = true
+				crystal_shrimp = true
+				dripstone_darter = true
+				yellow_perch = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				necromancer = true
+
+			[light_sources.settings.entities.alexscaves]
+				tremorzilla = true
+				hullbreaker = true
+
+			[light_sources.settings.entities.scguns]
+				cog_knight = true
+				hive = true
+				sulfurhead = true
+				trauma_unit = true
+				praetor = true
+				cog_minion = true
+
+			[light_sources.settings.entities.mowziesmobs]
+				grottol = true
+				ferrous_wroughtnaut = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				cave_enderman = true
+				snowy_enderman = true
+				dark_oak_enderman = true
+
+			[light_sources.settings.entities.alexsmobs]
+				cockroach = true
+				snow_leopard = true
+				grizzly_bear = true
+				blue_jay = true
+				moose = true
+				potoo = true
+				rocky_roller = true
+				centipede_body = true
+				centipede_head = true
+				raccoon = true
+				fly = true
+				flutter = true
+				centipede_tail = true
+				crow = true
+				underminer = true
+				skunk = true
+				sugar_glider = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				snowy_creeper = true
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				cave_creeper = true
+				spruce_creeper = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.fossil]
+				lonchodomas = true
+				sturgeon = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
+
+			[light_sources.settings.entities.quark]
+				forgotten = true
+				toretoise = true
+				stoneling = true
+
