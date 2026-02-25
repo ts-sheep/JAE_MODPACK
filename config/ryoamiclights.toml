@@ -15,20 +15,25 @@
 				axolotl = true
 				bee = true
 				arrow = true
+				donkey = true
 				cow = true
 				fox = true
 				pig = true
 				pillager = true
 				skeleton = true
 				bat = true
+				area_effect_cloud = true
+				endermite = true
 				rabbit = true
 				zombie = true
+				ender_pearl = true
 				armor_stand = true
 				drowned = true
 				sheep = true
 				experience_orb = true
 				player = true
 				item = true
+				shulker = true
 				villager = true
 				wolf = true
 				salmon = true
@@ -36,6 +41,8 @@
 				zombie_villager = true
 				item_frame = true
 				horse = true
+				ender_dragon = true
+				painting = true
 				glow_squid = true
 				witch = true
 				cod = true
@@ -48,32 +55,45 @@
 				black_crappie = true
 				tuna = true
 				glowfish = true
+				snatcher_squid = true
 				cave_crawler = true
 				bluegill = true
+				dutchman_sock = true
+				endergazer = true
 				iron_tetra = true
 				deep_grouper = true
 				mackerel = true
-				shadow_snapper = true
 				anglerfish = true
+				shadow_snapper = true
+				elytrout = true
 				snook = true
 				dripstone_darter = true
+				chorus_cod = true
+				amber_rockfish = true
 				yellow_perch = true
+				ender_glider = true
 				largemouth_bass = true
 				flounder = true
 				gilded_minnow = true
 				red_snapper = true
 				lapis_lanternfish = true
+				red_40 = true
+				pale_clubfish = true
+				enderfin = true
 				brook_trout = true
 				carp = true
 				cave_eel = true
 				anchovy = true
 				great_white_shark = true
 				crystal_shrimp = true
+				violet_carp = true
+				mantyvern = true
 
 			[light_sources.settings.entities.irons_spellbooks]
 				dead_king_corpse = true
 				pyromancer = true
 				necromancer = true
+				priest = true
 
 			[light_sources.settings.entities.alexscaves]
 				tremorzilla = true
@@ -96,21 +116,30 @@
 				cave_enderman = true
 				snowy_enderman = true
 				dark_oak_enderman = true
+				end_enderman = true
+				end_islands_enderman = true
 
 			[light_sources.settings.entities.alexsmobs]
-				seal = true
+				crocodile = true
+				spectre = true
 				gelada_monkey = true
+				seal = true
 				blue_jay = true
 				cachalot_echo = true
 				tasmanian_devil = true
 				centipede_tail = true
+				cosmic_cod = true
 				underminer = true
+				endergrade = true
 				skunk = true
+				enderiophage = true
 				cockroach = true
+				mimicube = true
 				snow_leopard = true
 				grizzly_bear = true
 				moose = true
 				potoo = true
+				tiger = true
 				centipede_body = true
 				rocky_roller = true
 				centipede_head = true
@@ -122,10 +151,15 @@
 				orca = true
 				crow = true
 				bison = true
+				cosmaw = true
 				sugar_glider = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
+
+			[light_sources.settings.entities.endergetic]
+				booflo = true
+				puff_bug = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				snowy_creeper = true
@@ -141,13 +175,20 @@
 				lonchodomas = true
 				sturgeon = true
 
+			[light_sources.settings.entities.bosses_of_mass_destruction]
+				obsidilith = true
+
 			[light_sources.settings.entities.ribbits]
 				ribbit = true
 
 			[light_sources.settings.entities.quark]
 				forgotten = true
 				toretoise = true
+				glass_frame = true
 				stoneling = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
