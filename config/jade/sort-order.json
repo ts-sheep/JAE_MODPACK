@@ -1,4 +1,11 @@
 {
+  "balm:jade": null,
+  "cookingforblockheads:fridge": null,
+  "cookingforblockheads:milk_jar": null,
+  "cookingforblockheads:oven": null,
+  "cookingforblockheads:preservation_chamber": null,
+  "cookingforblockheads:sink": null,
+  "cookingforblockheads:toaster": null,
   "delightful:crop_progress": null,
   "delightful:mushroom_colony": null,
   "delightful:pie_icons": null,
@@ -55,6 +62,8 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "refinedcooking:kitchen_access_point": null,
+  "refinedcooking:kitchen_station": null,
   "supplementaries:hat_stand": null,
   "supplementaries:present": null,
   "supplementaries:safe": null
