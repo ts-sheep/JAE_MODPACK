@@ -10,8 +10,8 @@
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				panda = true
 				chicken = true
+				panda = true
 				axolotl = true
 				bee = true
 				arrow = true
@@ -33,6 +33,7 @@
 				tnt_minecart = true
 				zombie_villager = true
 				item_frame = true
+				horse = true
 				glow_squid = true
 				witch = true
 				cod = true
@@ -92,6 +93,7 @@
 
 			[light_sources.settings.entities.alexsmobs]
 				seal = true
+				gelada_monkey = true
 				blue_jay = true
 				cachalot_echo = true
 				tasmanian_devil = true
