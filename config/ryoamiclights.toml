@@ -10,8 +10,8 @@
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				chicken = true
 				panda = true
+				chicken = true
 				axolotl = true
 				bee = true
 				arrow = true
@@ -21,7 +21,9 @@
 				pillager = true
 				skeleton = true
 				bat = true
+				rabbit = true
 				zombie = true
+				armor_stand = true
 				drowned = true
 				sheep = true
 				experience_orb = true
@@ -48,25 +50,29 @@
 				glowfish = true
 				cave_crawler = true
 				bluegill = true
+				iron_tetra = true
+				deep_grouper = true
+				mackerel = true
+				anglerfish = true
+				shadow_snapper = true
+				snook = true
+				dripstone_darter = true
+				yellow_perch = true
 				largemouth_bass = true
 				flounder = true
 				gilded_minnow = true
-				iron_tetra = true
 				red_snapper = true
-				deep_grouper = true
-				mackerel = true
-				cave_eel = true
-				anglerfish = true
-				carp = true
+				lapis_lanternfish = true
 				brook_trout = true
+				carp = true
+				cave_eel = true
 				anchovy = true
 				great_white_shark = true
-				snook = true
 				crystal_shrimp = true
-				dripstone_darter = true
-				yellow_perch = true
 
 			[light_sources.settings.entities.irons_spellbooks]
+				dead_king_corpse = true
+				pyromancer = true
 				necromancer = true
 
 			[light_sources.settings.entities.alexscaves]
