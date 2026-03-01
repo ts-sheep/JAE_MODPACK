@@ -43,6 +43,7 @@
 				horse = true
 				ender_dragon = true
 				painting = true
+				cave_spider = true
 				glow_squid = true
 				witch = true
 				cod = true
@@ -54,6 +55,7 @@
 			[light_sources.settings.entities.tide]
 				black_crappie = true
 				tuna = true
+				ocean_perch = true
 				glowfish = true
 				snatcher_squid = true
 				cave_crawler = true
@@ -104,6 +106,7 @@
 				hive = true
 				sulfurhead = true
 				trauma_unit = true
+				scamp_tank = true
 				praetor = true
 				dissident = true
 				cog_minion = true
